@@ -7,17 +7,8 @@
 shadman@cicada:~$ cat welcome.txt
 ```
 
-```text
-         .-.     .-.
-        /   \___/   \
-       |   (o)_(o)   |
-        \    \_/    /
-     ___/ `-.___.-' \___
-    /  /   | | | |   \  \
-    `-'    | | | |    `-'
-           `-`-`-'
+<img width="480" height="480" alt="github" src="https://github.com/user-attachments/assets/cc0d981c-06a1-427b-98c7-ac8af555fbb1" />
 
-       ᚠ ᚢ ᚦ ᚩ ᚱ ᚳ   3301
 ```
 
 ```console

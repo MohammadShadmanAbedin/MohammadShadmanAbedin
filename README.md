@@ -93,16 +93,6 @@ $ git log --stat
 
 ---
 
-### `// contact`
-
-```console
-$ cat contact.txt
-```
-
-`linkedin` → [Mohammad Shadman Abedin]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/mohammad-shadman-abedin-57a41a407/))<br>
-`email`    → [shadmanofficial3458@gmail.com](mailto:shadmanofficial3458@gmail.com)<br>
-
-
 ```console
 shadman@cicada:~$ exit
 ```

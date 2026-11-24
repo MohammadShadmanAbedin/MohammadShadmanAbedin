@@ -25,20 +25,6 @@ Web Development
 Machine Learning
 ```
 
----
-
-### `// about`
-
-```console
-$ cat about.md
-```
-
-CSE student who likes programming and solving problems. I'm currently exploring C++, Python and web development, and I plan to get into machine learning eventually.
-
-I build things mostly to see how they work.
-
----
-
 ### `// stack`
 
 ```console
